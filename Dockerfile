@@ -1,4 +1,4 @@
-FROM typesense/typesense-server:latest
+FROM docker.io/typesense/typesense:0.25.1
 
 EXPOSE 8108
 
